@@ -1,0 +1,85 @@
+﻿body{
+        width:800px;
+        margin:0px;
+        padding:0px;
+        text-align:center;
+        background:#e9fbff;
+    }
+    #container{
+        position:relative;
+        margin:0 auto;
+        padding:0px;
+        width:800px;
+        text-align:left;
+        background:url(container_bg.jpg)  repeat-y;
+    }
+    #banner{
+        margin:0px;
+        padding:0px;
+        width:900px;
+    }
+    #banner img{
+        height:50px;
+        width:900px;
+    }
+    #links{
+        font-size:20px;
+        margin:-15px 0px 0px 0px;
+        padding:0px;
+        position:relative;
+        background-color:#afdcff;
+    }
+    #links li{
+        list-style:none;/*无列表符号*/
+        float:left;/*向右伸展*/
+        margin:0px 60px 0px 0px;/*相邻列表之间的距离*/
+    }
+    /*左侧部分之超链接*/
+    #links a:link, #nav a:visited{
+        text-decoration:none;
+        color:#2a4f6f;
+        background-color:transparent;
+    }
+    #content{
+        margin:50px 0px 0px 0px;
+        width:900px;
+    }
+    #content_left{
+        width:150px;
+        position:absolute;
+        top:80px;
+        left:0px;
+        background-color:#afdcff;
+    }
+    #content_left img{
+        width:100px;
+        height:100px;
+         
+        border:1px solid #0073cc;
+        margin-bottom:5px;
+        text-align:center;
+    }
+    #content_left h3{
+        text-align:center;
+        margin-top:0px;
+    }
+    #content_left p{
+        text-align:justify;
+        padding:0px 10px 0px 10px;
+    }
+    #content_right{
+        position:absolute;
+        top:80px;
+        right:0px;
+        width:750px;
+        background-color:#afdcff;
+    }
+    #content_right h3{
+        margin-top:10px;
+        text-align:left;
+    }
+    #footer{
+ 
+        width:900px;
+        text-align:center;
+    }

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<script>
+    function myFunction()
+    {
+    x=document.getElementById("demo");  // 找到元素
+    x.innerHTML="Hello JavaScript!";    // 改变内容
+    }
+</script>
+</head>
+<body>
+
+    <p>
+        JavaScript 能够直接写入 HTML 输出流中：
+    </p>
+
+    <script>
+document.write("<h1>This is a heading</h1>");
+document.write("<p>This is a paragraph.</p>");
+    </script>
+
+    <p>
+        您只能在 HTML 输出流中使用 <strong>document.write</strong>。
+        如果您在文档已加载后使用它（比如在函数中），会覆盖整个文档。
+    </p>
+    <hr />
+    <button id="button" onclick="alert('Welcome!')" >点我弹出一个对话框</button>
+    <br /><p>alert括号内的字符串只能用单引号</p>
+    <hr />
+    <p id="demo">
+        JavaScript 能改变 HTML 元素的内容。
+    </p>
+    <button type="button" onclick="myFunction()">点击这里改变文字内容</button>
+    <hr />
+
+</body>
+</html>

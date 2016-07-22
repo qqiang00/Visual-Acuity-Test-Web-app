@@ -1,0 +1,44 @@
+﻿   body {  
+            margin:0px;
+            padding:0px;
+            text-align:center;  
+        }  
+   label{
+       vertical-align:central;
+       text-align:left;
+       font-size:14px;
+       font-family:Arial;
+
+   }
+   input{
+       vertical-align:central;
+       text-align:left;
+       font-size:14px;
+       font-family:Arial;
+       background-color:#FFFFFF;
+       border-width:1px;
+       width:50px;
+   }
+   button{
+       font-size:14px;
+       width:auto;
+       height:20px;
+       border:thin;  
+       border-bottom:4px;
+   }
+   .Container{  
+            position:absolute;
+            width:800px;
+            margin:0 auto;  
+            padding:0px;
+            text-align:center;  
+            position:relative;
+   }  
+   .Content{
+       
+       position:absolute;
+       margin:0 auto;  
+       padding:0px;
+       text-align:left;  
+       visibility:hidden;
+   }
