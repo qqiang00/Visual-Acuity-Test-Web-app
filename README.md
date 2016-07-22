@@ -11,5 +11,5 @@ online website: http://www.aieyedoctor.cn/default.asp
 
 2. 在线视力检查表的制作和分享——直观篇：http://blog.sina.com.cn/s/blog_40793e970102vqpv.html
 
-
+使用了JQuery-easyui 组件，内容太多，压缩成了.rar文件。
 
