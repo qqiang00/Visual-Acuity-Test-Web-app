@@ -1,7 +1,8 @@
 # Visual-Acuity-Test-Web-app
-An accurate visual acuity test web app based on professional ophthalmology knowledge.
+An precise visual acuity test web app based on professional ophthalmology knowledge.
 
-online website: http://www.aieyedoctor.cn/default.asp
+Online website: http://www.aieyedoctor.cn/default.asp
+Two languages (Chinese and English) available on the website.
 
 结合了专业知识设计的视力检查网页程序。
 
