@@ -1,7 +1,11 @@
 # Visual-Acuity-Test-Web-app
 An precise visual acuity test web app based on professional ophthalmology knowledge.
 
-Online website: http://www.aieyedoctor.cn/default.asp
+# New Edition Released on:　17 Mar 2017.
+# See repository: new-va-test.
+Chinese, English and French are supported.
+
+Online website: http://www.aieyedoctor.cn/
 Two languages (Chinese and English) available on the website.
 
 结合了专业知识设计的视力检查网页程序。
